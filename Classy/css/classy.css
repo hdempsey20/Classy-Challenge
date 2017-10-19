@@ -1,0 +1,21 @@
+body {
+  font-family:fantasy;
+  color:#101b47;
+  padding: 50px;
+}
+.hello {
+  padding: 25px;
+  background-color: #707070;
+}
+.h1 {
+  background-color: #ffd700;
+  color: #ffffff
+}
+.p1 {
+  background-color: #b363ff;
+  color: #330360;
+}
+.p2 {
+  background-color: #76c2fc;
+  color: #ffffff;
+}
